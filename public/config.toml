@@ -1,0 +1,28 @@
+baseurl = "http://ma2ma.github.io/machine.github.io"
+title = "machine's Blog"
+
+[author]
+  name = "machine"
+  email = "steve2008.ma@gmail.com"
+  
+  github = "ma2ma"
+  twitter = ""
+  facebook = ""
+  googleplus = ""
+  linkedin = ""
+
+[params]
+  Description = ""
+  # Optional
+  disqusShortname = ""
+  gaID = "Google Analytics Tracking ID"
+  highlight_theme = "tomorrow-night"
+  notoc = true
+
+
+# Optional sections:
+[permalinks]
+  posts = "/:year/:month/:filename/"
+
+[blackfriday]
+  plainIdAnchors = true
