@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on machine&#39;s Blog</title>
+    <link>http://ma2ma.github.io/machine.github.io/tags/</link>
+    <description>Recent content in Tags on machine&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>steve2008.ma@gmail.com (machine)</managingEditor>
+    <webMaster>steve2008.ma@gmail.com (machine)</webMaster>
+    
+	<atom:link href="http://ma2ma.github.io/machine.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
